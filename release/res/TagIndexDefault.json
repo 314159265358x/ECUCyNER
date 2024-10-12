@@ -1,0 +1,405 @@
+{
+    "s": {
+        "e": 2,
+        "o": 0,
+        "s": 1
+    },
+    "t": [
+        {
+            "a": [
+                "loc"
+            ],
+            "b": 5,
+            "i": 6,
+            "n": "location"
+        },
+        {
+            "a": [
+                "org"
+            ],
+            "b": 7,
+            "i": 8,
+            "n": "organization"
+        },
+        {
+            "a": [
+                "psn",
+                "per"
+            ],
+            "b": 9,
+            "i": 10,
+            "n": "person"
+        },
+        {
+            "a": [
+                "dat",
+                "year",
+                "month"
+            ],
+            "b": 11,
+            "i": 12,
+            "n": "date"
+        },
+        {
+            "a": [
+                "tim",
+                "hour",
+                "hours",
+                "minute",
+                "minutes",
+                "second",
+                "seconds"
+            ],
+            "b": 13,
+            "i": 14,
+            "n": "time"
+        },
+        {
+            "a": [
+                "art"
+            ],
+            "b": 15,
+            "i": 16,
+            "n": "artifact"
+        },
+        {
+            "a": [
+                "pnt"
+            ],
+            "b": 17,
+            "i": 18,
+            "n": "percent"
+        },
+        {
+            "a": [
+                "misc"
+            ],
+            "b": 19,
+            "i": 20,
+            "n": "other"
+        },
+        {
+            "a": [
+                "mny",
+                "price"
+            ],
+            "b": 21,
+            "i": 22,
+            "n": "money"
+        },
+        {
+            "a": [
+                "co"
+            ],
+            "b": 23,
+            "i": 24,
+            "n": "corporation"
+        },
+        {
+            "a": [
+                "norp"
+            ],
+            "b": 25,
+            "i": 26,
+            "n": "group"
+        },
+        {
+            "a": [
+                "prod"
+            ],
+            "b": 27,
+            "i": 28,
+            "n": "product"
+        },
+        {
+            "a": [
+                "rate"
+            ],
+            "b": 29,
+            "i": 30,
+            "n": "rating"
+        },
+        {
+            "a": [
+            ],
+            "b": 31,
+            "i": 32,
+            "n": "amenity"
+        },
+        {
+            "a": [
+                "restaurant_name"
+            ],
+            "b": 33,
+            "i": 34,
+            "n": "restaurant"
+        },
+        {
+            "a": [
+            ],
+            "b": 35,
+            "i": 36,
+            "n": "dish"
+        },
+        {
+            "a": [
+            ],
+            "b": 37,
+            "i": 38,
+            "n": "cuisine"
+        },
+        {
+            "a": [
+                "act"
+            ],
+            "b": 39,
+            "i": 40,
+            "n": "actor"
+        },
+        {
+            "a": [
+                "head"
+            ],
+            "b": 41,
+            "i": 42,
+            "n": "title"
+        },
+        {
+            "a": [
+            ],
+            "b": 43,
+            "i": 44,
+            "n": "genre"
+        },
+        {
+            "a": [
+                "dir"
+            ],
+            "b": 45,
+            "i": 46,
+            "n": "director"
+        },
+        {
+            "a": [
+            ],
+            "b": 47,
+            "i": 48,
+            "n": "song"
+        },
+        {
+            "a": [
+            ],
+            "b": 49,
+            "i": 50,
+            "n": "plot"
+        },
+        {
+            "a": [
+                "rev"
+            ],
+            "b": 51,
+            "i": 52,
+            "n": "review"
+        },
+        {
+            "a": [
+            ],
+            "b": 53,
+            "i": 54,
+            "n": "character"
+        },
+        {
+            "a": [
+                "ratings average",
+                "rat ave",
+                "rat_ave"
+            ],
+            "b": 55,
+            "i": 56,
+            "n": "ratings_average"
+        },
+        {
+            "a": [
+                "trail"
+            ],
+            "b": 57,
+            "i": 58,
+            "n": "trailer"
+        },
+        {
+            "a": [
+            ],
+            "b": 59,
+            "i": 60,
+            "n": "opinion"
+        },
+        {
+            "a": [
+            ],
+            "b": 61,
+            "i": 62,
+            "n": "award"
+        },
+        {
+            "a": [
+            ],
+            "b": 63,
+            "i": 64,
+            "n": "origin"
+        },
+        {
+            "a": [
+            ],
+            "b": 65,
+            "i": 66,
+            "n": "soundtrack"
+        },
+        {
+            "a": [
+            ],
+            "b": 67,
+            "i": 68,
+            "n": "relationship"
+        },
+        {
+            "a": [
+                "character name",
+                "char name",
+                "char_name"
+            ],
+            "b": 69,
+            "i": 70,
+            "n": "character_name"
+        },
+        {
+            "a": [
+            ],
+            "b": 71,
+            "i": 72,
+            "n": "quote"
+        },
+        {
+            "a": [
+                "cardinal number",
+                "cardinal"
+            ],
+            "b": 73,
+            "i": 74,
+            "n": "cardinal_number"
+        },
+        {
+            "a": [
+                "ordinal number",
+                "ordinal"
+            ],
+            "b": 75,
+            "i": 76,
+            "n": "ordinal_number"
+        },
+        {
+            "a": [
+            ],
+            "b": 77,
+            "i": 78,
+            "n": "quantity"
+        },
+        {
+            "a": [
+            ],
+            "b": 79,
+            "i": 80,
+            "n": "law"
+        },
+        {
+            "a": [
+                "geopolitical area",
+                "gpe"
+            ],
+            "b": 81,
+            "i": 82,
+            "n": "geopolitical_area"
+        },
+        {
+            "a": [
+                "work of art",
+                "creative-work"
+            ],
+            "b": 83,
+            "i": 84,
+            "n": "work_of_art"
+        },
+        {
+            "a": [
+                "fac"
+            ],
+            "b": 85,
+            "i": 86,
+            "n": "facility"
+        },
+        {
+            "a": [
+            ],
+            "b": 87,
+            "i": 88,
+            "n": "language"
+        },
+        {
+            "a": [
+            ],
+            "b": 89,
+            "i": 90,
+            "n": "event"
+        },
+        {
+            "a": [
+            ],
+            "b": 91,
+            "i": 92,
+            "n": "dna"
+        },
+        {
+            "a": [
+            ],
+            "b": 93,
+            "i": 94,
+            "n": "protein"
+        },
+        {
+            "a": [
+                "cell type"
+            ],
+            "b": 95,
+            "i": 96,
+            "n": "cell_type"
+        },
+        {
+            "a": [
+                "cell line"
+            ],
+            "b": 97,
+            "i": 98,
+            "n": "cell_line"
+        },
+        {
+            "a": [
+            ],
+            "b": 99,
+            "i": 100,
+            "n": "rna"
+        },
+        {
+            "a": [
+            ],
+            "b": 101,
+            "i": 102,
+            "n": "chemical"
+        },
+        {
+            "a": [
+            ],
+            "b": 103,
+            "i": 104,
+            "n": "disease"
+        }
+    ]
+}

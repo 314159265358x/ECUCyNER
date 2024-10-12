@@ -1,0 +1,21 @@
+{
+    "bw":{
+        "hparam_embedding_dim": 10,
+        "hparam_hidden_dim": 8,
+        "hparg_epoch": 10,
+        "hparg_test_count": 50,
+        "opt_path_save": "data",
+        "opt_torch_init": true
+    },
+    "cyner":{
+        "flair_model": "ner",
+        "priority": "HFS",
+        "spacy_model": "en_core_web_trf",
+        "use_heuristic": true
+    },
+    "listen":{
+        "name":"ner",
+        "port":38000,
+        "max_len":1024
+    }
+}

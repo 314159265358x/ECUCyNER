@@ -1,0 +1,17 @@
+tensorflow-text
+tf-models-official
+pydot
+tensorrt
+
+torch
+torcheval
+torch-tb-profiler
+tensorboard
+transformers
+sudachipy
+apex
+nltk
+plyvel
+flask
+flair
+spacy
